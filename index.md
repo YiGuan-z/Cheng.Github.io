@@ -23,7 +23,7 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，2001 年出生
  - 求职意向：Web前端开发 Java程序员 Linux运维
